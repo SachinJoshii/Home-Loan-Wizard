@@ -1,9 +1,9 @@
 # Home Loan Wizard
 ![349218518-9749341e-f32e-461d-a902-46b84c3a1829](https://github.com/user-attachments/assets/5c5e708f-2624-4539-b2c6-9a35e72a71d7)
-![349218698-3f70907c-a1d7-478d-a490-27a7fe7f7125](https://github.com/user-attachments/assets/19280640-9dff-4078-a479-063cb9c3d565)
+![349218582-840dd958-312a-4c09-a0b7-b5f7986bf3d6](https://github.com/user-attachments/assets/fdcee421-51a9-482e-a7d6-f48b31d69fa7)
 
 # Mobile View
-![349218582-840dd958-312a-4c09-a0b7-b5f7986bf3d6](https://github.com/user-attachments/assets/fdcee421-51a9-482e-a7d6-f48b31d69fa7)
+![349218698-3f70907c-a1d7-478d-a490-27a7fe7f7125](https://github.com/user-attachments/assets/19280640-9dff-4078-a479-063cb9c3d565)
 
 # Getting Started with Create React App
 
